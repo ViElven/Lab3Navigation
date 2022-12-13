@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab3NavigationLab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dishname">Dish name</string>
+    <string name="favourite">Избранное</string>
+    <string name="btn_borsh">Борщ</string>
+    <string name="btn_puree">Пюре</string>
+    <string name="btn_shroom">Пирожки</string>
+    <string name="borsh_recipe">Рецепт борща</string>
+    <string name="borsh_ingridients">Свёкла 1 шт.\nКартофель 3 шт.\n
+Репчатый лук 2 головки\n
+Морковь 2 шт.\n
+Говяжьи кости с мясом 500г\n
+Петрушка 1/2 пучка\n
+Укроп 1/2 пучка\n
+Белокочанная капуста 1/4 шт.\n
+Чеснок 2 зубчика\n
+Подсолнечное масло 1 ст. л.\n
+Столовый уксус 1.5 ст. л.\n
+Томатный порошок 1.5 ст. л.\n
+Сахар 1 ч. л.\n
+Лавровый лист 2-3 шт.\n
+Соль  ч. л.\n
+Вода 1.5 л</string>
+</resources>
